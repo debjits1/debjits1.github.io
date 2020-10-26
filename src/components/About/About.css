@@ -1,0 +1,31 @@
+.about {
+    display: flex;
+    align-items: center;
+    min-height: 400px;
+}
+.about > div {
+    flex: 1 1 0;
+}
+.about .aboutLeft {
+    height: 400px;
+    background: url(./../../images/me.jpg) center -80px / cover no-repeat;
+}
+
+.about .aboutRight {
+    padding: 0 16px;
+}
+.about .aboutRight .body-big {
+    margin-bottom: 16px;
+}
+@media screen and (max-width: 767px) {
+    .about {
+        flex-direction: column-reverse;
+    }
+    .about > div {
+        flex: initial;
+    }
+    .about .aboutLeft {
+        height: 300px;
+        width: 100%;
+    }
+} 

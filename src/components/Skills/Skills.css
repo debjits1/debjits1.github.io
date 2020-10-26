@@ -1,0 +1,21 @@
+.skills {
+    display: flex;
+    overflow: hidden;
+    align-items: center;
+}
+.skills > div {
+    flex: 1 1 0;
+}
+.skills .content {
+    padding-left: 16px;
+    padding-right: 16px;
+}
+@media (max-width: 767px) {
+    .skills {
+        flex-direction: column;
+        padding-top: 32px;
+    }
+    .skills > div {
+        flex: initial;
+    }
+} 

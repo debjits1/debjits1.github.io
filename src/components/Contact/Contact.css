@@ -1,0 +1,19 @@
+.contact {
+    padding-top: 32px;
+    padding-bottom: 32px;
+}
+.contact .heading {
+    margin-bottom: 32px;
+}
+.contact .socialLinks a {
+    color: #000fff;
+    display: inline-block;
+    margin-right: 32px;
+    text-decoration: none;
+}
+.contact .socialLinks a:hover {
+    text-decoration: none;
+}
+.contact .socialLinks a:last-child {
+    margin-right: 0;
+}

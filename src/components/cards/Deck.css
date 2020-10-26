@@ -1,0 +1,57 @@
+.deckRoot {
+  overflow: hidden;
+  width: 100%;
+  height: 400px;
+  cursor: grab;
+  position: relative;
+}
+.deck {
+    position: absolute;
+    height: 200px;
+    will-change: transform;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.card {
+    background-color: white;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center center;
+    width: 150px;
+    max-width: 300px;
+    height: 250px;
+    max-height: 570px;
+    will-change: transform;
+    border-radius: 10px;
+    box-shadow: 0 12.5px 100px -10px rgba(50, 50, 73, 0.4), 0 10px 10px -10px rgba(50, 50, 73, 0.3);
+}
+.deckWrap {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 150px;
+  height: 250px;
+}
+
+.skillImage {
+  width: 100px;
+  height: 100px;
+  top: 50px;
+  left: 50%;
+  transform: translateX(-50%);
+  position: absolute;
+  background-size: cover;
+  background-size: 60%;
+  border-radius: 50%;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+.skillName {
+  position: absolute;
+  font-size: 1.5em;
+  bottom: 30px;
+  left: 50%;
+  transform: translateX(-50%);
+}

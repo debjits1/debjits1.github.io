@@ -8,7 +8,8 @@ const About = () => {
             </div>
             <div className="aboutRight">
                 <p className="body-big">I am a <span className="color-2-content">Web developer / UI developer</span> from India.</p>
-                <p className="body-big">I have 6 years of experience as a developer and love working with <span className="color-2-content">frontend technologies</span> and frameworks. </p>
+                <p className="body-big">I have 6 years of experience as a developer and I love working with <span className="color-2-content">frontend technologies</span> and frameworks.</p>
+                <p className="body-big">Besides I love doing graphic design and photography.</p>
             </div>
         </div>
     );

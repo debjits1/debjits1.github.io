@@ -16,7 +16,7 @@
     "react-use-gesture": "5.0.0",
     "serve": "^11.3.2"
   },
-  "homepage": "https://github.com/debjits1/debjits1.github.io",
+  "homepage": "debjits1.github.io",
   "scripts": {
     "dev": "react-scripts start",
     "start": "serve -s build",

@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/debjits1/portfolio/static/css/main.2a6b4033.chunk.css",
+    "main.js": "/debjits1/portfolio/static/js/main.ab96fdb8.chunk.js",
+    "main.js.map": "/debjits1/portfolio/static/js/main.ab96fdb8.chunk.js.map",
+    "runtime-main.js": "/debjits1/portfolio/static/js/runtime-main.cfd71d15.js",
+    "runtime-main.js.map": "/debjits1/portfolio/static/js/runtime-main.cfd71d15.js.map",
+    "static/js/2.f55fd682.chunk.js": "/debjits1/portfolio/static/js/2.f55fd682.chunk.js",
+    "static/js/2.f55fd682.chunk.js.map": "/debjits1/portfolio/static/js/2.f55fd682.chunk.js.map",
+    "index.html": "/debjits1/portfolio/index.html",
+    "precache-manifest.893df7af882d8b2f00bdacfbdd9f1c38.js": "/debjits1/portfolio/precache-manifest.893df7af882d8b2f00bdacfbdd9f1c38.js",
+    "service-worker.js": "/debjits1/portfolio/service-worker.js",
+    "static/css/main.2a6b4033.chunk.css.map": "/debjits1/portfolio/static/css/main.2a6b4033.chunk.css.map",
+    "static/js/2.f55fd682.chunk.js.LICENSE.txt": "/debjits1/portfolio/static/js/2.f55fd682.chunk.js.LICENSE.txt",
+    "static/media/CSS3.svg": "/debjits1/portfolio/static/media/CSS3.7415a70a.svg",
+    "static/media/HTML5_Logo.svg": "/debjits1/portfolio/static/media/HTML5_Logo.a3492ddb.svg",
+    "static/media/angular.svg": "/debjits1/portfolio/static/media/angular.5c69e565.svg",
+    "static/media/javascript.svg": "/debjits1/portfolio/static/media/javascript.61ed8b05.svg",
+    "static/media/About.css": "/debjits1/portfolio/static/media/me.4e6b494a.jpg",
+    "static/media/react.svg": "/debjits1/portfolio/static/media/react.f0793d9f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cfd71d15.js",
+    "static/js/2.f55fd682.chunk.js",
+    "static/css/main.2a6b4033.chunk.css",
+    "static/js/main.ab96fdb8.chunk.js"
+  ]
+}

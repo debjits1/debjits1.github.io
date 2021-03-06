@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/debjits1/debjits1.github.io/static/css/main.633e334d.chunk.css",
-    "main.js": "/debjits1/debjits1.github.io/static/js/main.48ca9bbf.chunk.js",
-    "main.js.map": "/debjits1/debjits1.github.io/static/js/main.48ca9bbf.chunk.js.map",
-    "runtime-main.js": "/debjits1/debjits1.github.io/static/js/runtime-main.f9bde343.js",
-    "runtime-main.js.map": "/debjits1/debjits1.github.io/static/js/runtime-main.f9bde343.js.map",
-    "static/js/2.f55fd682.chunk.js": "/debjits1/debjits1.github.io/static/js/2.f55fd682.chunk.js",
-    "static/js/2.f55fd682.chunk.js.map": "/debjits1/debjits1.github.io/static/js/2.f55fd682.chunk.js.map",
-    "index.html": "/debjits1/debjits1.github.io/index.html",
-    "precache-manifest.efb269a6283e5b404fc2c2e21f630873.js": "/debjits1/debjits1.github.io/precache-manifest.efb269a6283e5b404fc2c2e21f630873.js",
-    "service-worker.js": "/debjits1/debjits1.github.io/service-worker.js",
-    "static/css/main.633e334d.chunk.css.map": "/debjits1/debjits1.github.io/static/css/main.633e334d.chunk.css.map",
-    "static/js/2.f55fd682.chunk.js.LICENSE.txt": "/debjits1/debjits1.github.io/static/js/2.f55fd682.chunk.js.LICENSE.txt",
-    "static/media/CSS3.svg": "/debjits1/debjits1.github.io/static/media/CSS3.7415a70a.svg",
-    "static/media/HTML5_Logo.svg": "/debjits1/debjits1.github.io/static/media/HTML5_Logo.a3492ddb.svg",
-    "static/media/angular.svg": "/debjits1/debjits1.github.io/static/media/angular.5c69e565.svg",
-    "static/media/javascript.svg": "/debjits1/debjits1.github.io/static/media/javascript.61ed8b05.svg",
-    "static/media/About.css": "/debjits1/debjits1.github.io/static/media/me.4e6b494a.jpg",
-    "static/media/react.svg": "/debjits1/debjits1.github.io/static/media/react.f0793d9f.svg"
+    "main.css": "/debjits1.github.io/static/css/main.3a329616.chunk.css",
+    "main.js": "/debjits1.github.io/static/js/main.28b3ce90.chunk.js",
+    "main.js.map": "/debjits1.github.io/static/js/main.28b3ce90.chunk.js.map",
+    "runtime-main.js": "/debjits1.github.io/static/js/runtime-main.f439dc2b.js",
+    "runtime-main.js.map": "/debjits1.github.io/static/js/runtime-main.f439dc2b.js.map",
+    "static/js/2.f55fd682.chunk.js": "/debjits1.github.io/static/js/2.f55fd682.chunk.js",
+    "static/js/2.f55fd682.chunk.js.map": "/debjits1.github.io/static/js/2.f55fd682.chunk.js.map",
+    "index.html": "/debjits1.github.io/index.html",
+    "precache-manifest.f5d0f635f677cdc669551d33da8b165d.js": "/debjits1.github.io/precache-manifest.f5d0f635f677cdc669551d33da8b165d.js",
+    "service-worker.js": "/debjits1.github.io/service-worker.js",
+    "static/css/main.3a329616.chunk.css.map": "/debjits1.github.io/static/css/main.3a329616.chunk.css.map",
+    "static/js/2.f55fd682.chunk.js.LICENSE.txt": "/debjits1.github.io/static/js/2.f55fd682.chunk.js.LICENSE.txt",
+    "static/media/CSS3.svg": "/debjits1.github.io/static/media/CSS3.7415a70a.svg",
+    "static/media/HTML5_Logo.svg": "/debjits1.github.io/static/media/HTML5_Logo.a3492ddb.svg",
+    "static/media/angular.svg": "/debjits1.github.io/static/media/angular.5c69e565.svg",
+    "static/media/javascript.svg": "/debjits1.github.io/static/media/javascript.61ed8b05.svg",
+    "static/media/About.css": "/debjits1.github.io/static/media/me.4e6b494a.jpg",
+    "static/media/react.svg": "/debjits1.github.io/static/media/react.f0793d9f.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f9bde343.js",
+    "static/js/runtime-main.f439dc2b.js",
     "static/js/2.f55fd682.chunk.js",
-    "static/css/main.633e334d.chunk.css",
-    "static/js/main.48ca9bbf.chunk.js"
+    "static/css/main.3a329616.chunk.css",
+    "static/js/main.28b3ce90.chunk.js"
   ]
 }
